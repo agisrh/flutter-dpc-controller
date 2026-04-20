@@ -66,6 +66,6 @@ android {
 }
 
 dependencies {
-    //implementation(name:'dpcsupport-yyyymmdd', ext:'aar')
-    implementation 'com.google.android.gms:play-services-auth:11.4.0'
+    // implementation(name:'dpcsupport-yyyymmdd', ext:'aar')
+    implementation 'com.google.android.gms:play-services-auth:21.0.0'
 }
